@@ -101,7 +101,8 @@ MINGW64 ~/Downloads/PracticaGit (main)
 $ git commit index.html
 [main 9480db3] hola
  1 file changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 index.html``
+ create mode 100644 index.html
+```
 
  # Subir el repositorio a Github
 
