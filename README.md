@@ -99,6 +99,10 @@ branch 'main' set up to track 'origin/main'.
 
 ## Uso de Git mediante la interfaz de VSCode:
 
+![image](https://github.com/JoseAnt25/PracticaGit/assets/153898336/7f67a41c-202f-4d84-87e5-5e2bbc32b699)
+
+![image](https://github.com/JoseAnt25/PracticaGit/assets/153898336/2a777615-1e59-4345-8551-a596e4b45085)
+
 ![image](https://github.com/JoseAnt25/PracticaGit/assets/153898336/470f8b34-0086-40f3-ac3f-5df81729b8d1)
 
 
