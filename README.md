@@ -16,6 +16,9 @@
 
 ![image](https://github.com/JoseAnt25/PracticaGit/assets/153898336/7f67a41c-202f-4d84-87e5-5e2bbc32b699)
 
+![image](https://github.com/JoseAnt25/PracticaGit/assets/153898336/2a777615-1e59-4345-8551-a596e4b45085)
+
+
 # Creación del repositorio en nuestro ordenador (init):
 
 ```
