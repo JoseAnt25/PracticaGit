@@ -14,8 +14,7 @@
 
 ## Uso de Git mediante la terminal git bash. Las instrucciones y sus resultados deben mostrar como **bloques de código markdown:**
 
-https://github.com/JoseAnt25/PracticaGit/blob/main/rep.PNG?raw=true
-
+rep2.PNG
 # Creación del repositorio en nuestro ordenador (init):
 
 ```
